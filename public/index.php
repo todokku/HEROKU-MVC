@@ -1,5 +1,4 @@
 <?php
-die('Hello world');
 /**
  * Created by PhpStorm.
  * User: root
